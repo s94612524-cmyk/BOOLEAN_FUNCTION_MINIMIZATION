@@ -54,6 +54,7 @@ Developed by: RegisterNumber:*/
 
 **RTL realization**
 <img width="1100" height="545" alt="Screenshot 2025-10-07 124900" src="https://github.com/user-attachments/assets/7f247f96-22b2-4d75-82da-4798d91c9e4b" />
+<img width="440" height="237" alt="Screenshot 2025-10-07 195301" src="https://github.com/user-attachments/assets/176f70cf-57f1-4efa-99c6-b3f9022acd26" />
 
 **Output:**
 
@@ -61,6 +62,7 @@ Developed by: RegisterNumber:*/
 
 **Timing Diagram**
 <img width="1462" height="837" alt="Screenshot 2025-10-07 124950" src="https://github.com/user-attachments/assets/a48fe48e-15d7-41ed-aba4-78deb7cf4690" />
+![EX2 1](https://github.com/user-attachments/assets/fe5dddd2-0863-490f-9a35-ff2856cf9395)
 
 **Result:**
 
